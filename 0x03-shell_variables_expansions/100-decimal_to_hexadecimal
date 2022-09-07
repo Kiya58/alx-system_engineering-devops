@@ -1,0 +1,4 @@
+#!/bin/bash
+ 100 decimal to hexadecimal
+
+    printf   '%x\n' $DECIMAL
